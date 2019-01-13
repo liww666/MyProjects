@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c95250fc-3c9b-47a9-9b70-a5804074f0c2" name="Default" comment="" />
+    <list default="true" id="c95250fc-3c9b-47a9-9b70-a5804074f0c2" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_dubbo/.mvn/wrapper/maven-wrapper.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_dubbo/dubbo-consumer/src/main/java/com/sunyard/dubbo/consumer/Consumer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_dubbo/src/main/java/com/sunyard/springboot_dubbo/service/Consumer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_dubbo/dubbo-provider/src/main/java/com/sunyard/dubbo/provider/Provider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_dubbo/src/main/java/com/sunyard/springboot_dubbo/service/Provider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_dubbo/src/main/java/com/sunyard/springboot_dubbo/SpringbootDubboApplication.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_dubbo/src/test/java/com/sunyard/springboot_dubbo/SpringbootDubboApplicationTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_dubbo/dubbo-api/src/main/java/com/sunyard/dubbo/api/UserServiceBo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_dubbo/dubbo-provider/src/main/java/com/sunyard/dubbo/provider/service/UserServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_dubbo/src/main/java/com/sunyard/springboot_dubbo/service/UserServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_dubbo/src/main/resources/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_dubbo/src/main/resources/consumer.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_dubbo/.mvn/wrapper/maven-wrapper.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_dubbo/mvnw.cmd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_dubbo/mvnw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_dubbo/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_dubbo/dubbo-api/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_dubbo/dubbo-consumer/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_dubbo/dubbo-provider/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../spring_dubbo/src/main/resources/provider.xml" />
+    </list>
     <ignored path="dubbo-api.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -53,6 +74,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
       <map>
@@ -67,6 +91,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/sunyard/dubboapi/UserServiceBo.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -129,7 +154,7 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -236,7 +261,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -519,12 +544,12 @@
       <updated>1547362984803</updated>
       <workItem from="1547362992420" duration="113000" />
       <workItem from="1547364568214" duration="1324000" />
-      <workItem from="1547380919976" duration="614000" />
+      <workItem from="1547380919976" duration="1439000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2051000" />
+    <option name="totallyTimeSpent" value="2876000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -536,8 +561,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32980332" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32843137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32843137" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32843137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32980332" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
