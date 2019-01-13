@@ -17,6 +17,6 @@ public class UserServiceImpl implements UserServiceBo {
     @Override
     public String sayHello(String s) {
         System.out.println("-----service invoked!-----");
-        return "Hello"+s;
+        return "Hello "+s;
     }
 }
