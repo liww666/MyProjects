@@ -1,4 +1,4 @@
-package com.sunyard.dubbo.api;
+package com.sunyard.springboot_dubbo.service.api;
 
 /**
  * Created by Administrator on 2019/1/13.
